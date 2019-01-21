@@ -26,10 +26,10 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 **Slic3r**
 
-- Temperature 240 / 40 °C (the temperature range on Filamentum web page is
+- `Temperature: 240` / 40 °C (the temperature range on Filamentum web page is
   200-220 °C, but it does bond too often in extruder in my printer).
-- Filament / Max. volumetric speed = 1.1 mm3/sec
-- Printer / Extruder 1 / Retraction length = 0 mm (disabled)
+- `Filament / Max. volumetric speed: 1.1 mm3/sec`
+- `Printer / Extruder 1 / Retraction length: 0 mm` (disabled)
 - As this material is hard to use with retraction it really tends to make strings where possible. Look at [Slic3r Fighting Ooze](https://manual.slic3r.org/expert-mode/fighting-ooze) or try [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) with `Travel / Combining mode = All`.
 
 **Printer**
