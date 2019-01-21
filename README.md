@@ -24,14 +24,12 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 
 **Slic3r**
-
 - `Temperature: 240` / 40 °C (contrarry to Filamentum recomended 200-220 °C).
 - `Filament / Max. volumetric speed: 1.1 mm3/sec`
 - `Printer / Extruder 1 / Retraction length: 0 mm` (disabled)
 - `Filament / Filament / Extrusion multiplier:  1.2`
 
 **Printer**
-
 - Slightly loosen tension screews on extruder ([see image](assets/flexfill-extruder-screews.jpeg)).
 - Speed - I print on low speeds to have more success
 
@@ -49,16 +47,12 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 **Cons**
 - Sticks to bed so it is hard (if possible) to remove.
-- Less ecological
-- Health impacts when inhaling vapours?
-
+- Does not degrade in compost
 
 **Slic3r**
-
 - `Temperature: 260 / 85 °C` first layer, then `275 / 85 °C` (important! to prevent sticking)
 
 **Other notes**
-
 - You can use glue stick on cold bed to ease removal of finished product as described [here](https://ultimaker.com/en/resources/22229-how-to-print-with-ultimaker-cpe)
 
 
