@@ -25,6 +25,7 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 - `Temperature: 240` / 40 °C (contrarry to Filamentum recomended 200-220 °C).
 - `Filament / Max. volumetric speed: 1.1 mm3/sec`
 - `Printer / Extruder 1 / Retraction length: 0 mm` (disabled)
+- `Filament / Filament / Extrusion multiplier:  1.2`
 
 **Printer**
 
@@ -36,5 +37,26 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 - Sticks just right, no special settings / glue is required
 - link: [Filamentum flexfill 98A](https://fillamentum.com/products/flexfill-98a-traffic-black).
 - I recomend to look at [3D Printing with Flexible Filaments](https://www.youtube.com/watch?v=fTJz6vMvtJ8) video.
+
+
+### CPE HG100 HM100
+
+**Pros**
++ stronger than PLA
+
+**Cons**
+- Sticks to bed so it is hard (if possible) to remove.
+- Less ecological
+- Health impacts when inhaling vapours?
+
+
+**Slic3r**
+
+- `Temperature: **260* / 85 °C` first layer, then `275 / 85 °C` (to prevent sticking)
+
+**Other notes**
+
+- You can use glue stick on cold bed to ease removal of finished product as described [here](https://ultimaker.com/en/resources/22229-how-to-print-with-ultimaker-cpe)
+
 
 
