@@ -12,10 +12,6 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 ### FlexFill 98A
 
-[Filamentum flexfill 98A](https://fillamentum.com/products/flexfill-98a-traffic-black).
-
-[Here](https://www.youtube.com/watch?v=fTJz6vMvtJ8) is a great video about problems with this filament.
-
 **Pros**
 + Flexy
 + Really sturd
@@ -38,4 +34,7 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 **Other notes**
 - As this material is hard to print with retraction enabled, it tends to make strings where possible. Look at [Slic3r Fighting Ooze](https://manual.slic3r.org/expert-mode/fighting-ooze) or try [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) with `Travel / Combining mode = All`.
 - Sticks just right, no special settings / glue is required
+- link: [Filamentum flexfill 98A](https://fillamentum.com/products/flexfill-98a-traffic-black).
+- I recomend to look at [3D Printing with Flexible Filaments](https://www.youtube.com/watch?v=fTJz6vMvtJ8).
+
 
