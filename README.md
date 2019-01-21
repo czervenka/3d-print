@@ -10,6 +10,9 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 ## Settings for material
 
+- [FlexFill](#flexfill-98a)
+- [CPE](#cpe-hg100-hm100)
+
 ### FlexFill 98A
 
 **Pros**
