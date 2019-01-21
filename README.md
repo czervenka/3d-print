@@ -55,7 +55,7 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 **Slic3r**
 
-- `Temperature: **260* / 85 °C` first layer, then `275 / 85 °C` (to prevent sticking)
+- `Temperature: 260 / 85 °C` first layer, then `275 / 85 °C` (important! to prevent sticking)
 
 **Other notes**
 
