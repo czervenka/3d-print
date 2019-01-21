@@ -28,7 +28,7 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 
 **Printer**
 
-- Slightly loosen tension screews on extruder.
+- Slightly loosen tension screews on extruder ([see image](assets/flexfill-extruder-screews.jpeg)).
 - Speed - I print on low speeds to have more success
 
 **Other notes**
