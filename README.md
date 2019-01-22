@@ -71,4 +71,4 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 - `Plater / Brim: checked`
 
 **Other notes**
-- Clean the bed well for the print to stick to it.
+- Clean the bed well for the print to stick to it (water with dish soap).
