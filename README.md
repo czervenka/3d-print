@@ -28,6 +28,7 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 - `Filament / Max. volumetric speed: 1.1 mm3/sec`
 - `Printer / Extruder 1 / Retraction length: 0 mm` (disabled)
 - `Filament / Filament / Extrusion multiplier:  1.2`
+- No support or brim (it is hard to remove later)
 
 **Printer**
 - Slightly loosen tension screews on extruder ([see image](assets/flexfill-extruder-screews.jpeg)).
@@ -56,4 +57,18 @@ Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-origin
 - You can use glue stick on cold bed to ease removal of finished product as described [here](https://ultimaker.com/en/resources/22229-how-to-print-with-ultimaker-cpe)
 
 
+### PLA
 
+**Pros**
++ print easily
++ degrades in compost
+
+**Cons**
+- Not as durable as other materials
+
+**Slic3r**
+- `Temperature: 225 / 70 °C` first layer, then `215 / 65 °C` (higher temperature for first layer to stick better)
+- `Plater / Brim: checked`
+
+**Other notes**
+- Clean the bed well for the print to stick to it.
