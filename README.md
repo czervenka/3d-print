@@ -10,6 +10,7 @@ Shared experiences with 3D printing on [Prusa i3 Mk3](https://shop.prusa3d.com/e
 
 - [FlexFill](#flexfill-98a)
 - [CPE](#cpe-hg100-hm100)
+- [PLA](#pla)
 
 ### FlexFill 98A
 
