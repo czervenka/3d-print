@@ -1,7 +1,5 @@
 # 3d-print
-Shared experiences with 3D printing.
-
-Our printer is [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html).
+Shared experiences with 3D printing on [Prusa i3 Mk3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html).
 
 
 ## Printer setting - tunning
